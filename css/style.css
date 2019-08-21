@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+#navbar{
+  display: block;
+  width:20%;
+  position: sticky;
+  top:0;
+}
+a{
+  display: block;
+}
